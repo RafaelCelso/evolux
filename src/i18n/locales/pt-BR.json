@@ -1,0 +1,273 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "services": "Serviços",
+    "team": "Equipe",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Conectando Mercados,\nImpulsionando Negócios",
+    "subtitle": "Não é somente sobre vendas, é sobre lucro e performance!",
+    "description": "Especialistas em importação com mais de 40 anos de experiência combinada,\nconectando fornecedores internacionais ao mercado brasileiro.",
+    "cta": "Entre em Contato"
+  },
+  "about": {
+    "title": "Quem Somos",
+    "description": "A Evolux Group chega ao Brasil com o propósito de transformar a experiência de compras e desenvolvimento de produtos para os principais importadores e grandes players dos segmentos de utilidades domésticas, decoração, brinquedos, mesa posta, entre outros nichos estratégicos.",
+    "mission": {
+      "title": "Missão",
+      "text": "Conectar o Mercado da América do Sul, em especial o Mercado Brasileiro às melhores soluções globais em produtos importados."
+    },
+    "vision": {
+      "title": "Visão",
+      "text": "Sermos reconhecidas através das nossas entregas a principal empresa de importação e curadoria de produtos do setor."
+    },
+    "values": {
+      "title": "Valores",
+      "text": "Curadoria com Propósito, Honestidade e Transparência, Parcerias de Longo Prazo, Compromisso com a Entrega."
+    }
+  },
+  "achievements": {
+      "title": "Nossos Diferenciais",
+      "subtitle": "Um ecossistema completo de curadoria, consultoria, logística, marketing e suporte estratégico",
+      "experience": {
+        "title": "Experiência Consolidada",
+        "description": "Mais de 40 anos de experiência combinada em sourcing, comércio exterior, desenvolvimento de produtos e negociação internacional."
+      },
+      "global": {
+        "title": "Conexão Global Estratégica",
+        "description": "Atuação direta nos principais polos globais (China, Índia, Turquia, Egito e Indonésia), garantindo acesso a fornecedores confiáveis e competitivos."
+      },
+      "integrated": {
+        "title": "Serviços Completos e Integrados",
+        "description": "Cobertura de ponta a ponta: sourcing, desenvolvimento, importação, logística internacional, desembaraço aduaneiro, inspeção de qualidade e consolidação de cargas."
+      },
+      "curation": {
+        "title": "Curadoria e Inovação",
+        "description": "Foco em tendências e desenvolvimento de produtos exclusivos, com possibilidade de marca própria (PL) e embalagens personalizadas para diferentes nichos."
+      },
+      "showroom": {
+        "title": "Atendimento Diferenciado",
+        "description": "Experiência personalizada em ambiente que simula uma feira internacional, permitindo ao cliente visualizar as soluções de forma prática."
+      },
+      "support": {
+        "title": "Suporte Completo ao Cliente",
+        "description": "Treinamento técnico, Visual Merchandising, decoração para showrooms e PDVs, criação de materiais de mídia e marketing de produtos."
+      },
+      "data": {
+        "title": "Gestão Estratégica de Dados",
+        "description": "Estruturação completa de cadastros para e-commerce e gestão de categorias, permitindo análises de vendas, tendências e comportamento do consumidor."
+      },
+      "values": {
+        "title": "Valores Sólidos",
+        "description": "Transparência, compromisso com entrega, sustentabilidade, responsabilidade e parcerias de longo prazo, reforçando a credibilidade no mercado."
+      }
+    },
+  "services": {
+    "title": "Nossos Serviços",
+    "subtitle": "Soluções completas para importação e comércio exterior",
+    "sourcing": {
+      "title": "Sourcing de Produtos",
+      "description": "Desenvolvimento de projetos e consultoria de segmentos com fornecedores confiáveis nos principais polos globais."
+    },
+    "import": {
+      "title": "Importação Completa",
+      "description": "Serviços completos de importação, consolidação de cargas e logística internacional."
+    },
+    "marketing": {
+      "title": "Marketing e Treinamento",
+      "description": "Material de apoio, treinamento técnico e serviços de VM e Decor para showrooms."
+    },
+    "curation": {
+      "title": "Curadoria de Produtos",
+      "description": "Curadoria das principais tendências e desenvolvimento de produtos e linhas exclusivas."
+    }
+  },
+  "why": {
+    "title": "Por que Escolher a Evolux?",
+    "subtitle": "Diferenciais que fazem a diferença no seu negócio",
+    "local": {
+      "title": "Conhecimento do Mercado Local",
+      "description": "Conhecemos profundamente a cultura, regulamentações e logística do mercado brasileiro."
+    },
+    "network": {
+      "title": "Rede de Distribuição Estratégica",
+      "description": "Acesso direto aos principais importadores, grandes varejistas e canais de e-commerce."
+    },
+    "marketing": {
+      "title": "Marketing Direcionado",
+      "description": "Desenvolvemos estratégias personalizadas para posicionar seus produtos no mercado local."
+    },
+    "support": {
+      "title": "Suporte Completo",
+      "description": "Cuidamos de todo o processo, do desembaraço aduaneiro ao pós-venda."
+    }
+  },
+  "team": {
+    "title": "Nossa Equipe",
+    "subtitle": "Especialistas com mais de 40 anos de experiência combinada",
+    "paula": {
+      "name": "Paula Ariana",
+      "role": "Estratégia de Produto & Desenvolvimento de Portfólio",
+      "description": "Mais de 20 anos de experiência no setor de importação, especializada em utilidades domésticas e home decor."
+    },
+    "isabella": {
+      "name": "Isabella Palmeira",
+      "role": "Comércio Exterior & Relacionamento com Importadores",
+      "description": "Especialista em comércio exterior com sólida atuação na América Latina, com mais de 6 anos de experiência."
+    },
+    "vanessa": {
+      "name": "Vanessa Alves",
+      "role": "Operações & Logística Internacional",
+      "description": "Mais de 15 anos no setor, especialista em toda a cadeia de importação e logística internacional."
+    }
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "subtitle": "Vamos crescer juntos! Entre em contato conosco.",
+    "directContact": "Fale conosco diretamente",
+    "country": "Brasil",
+    "info": "Informações de Contato",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "location": "Localização",
+    "form": {
+        "title": "Envie sua Mensagem",
+        "name": "Nome",
+        "email": "Email",
+        "company": "Empresa",
+        "message": "Mensagem",
+        "send": "Enviar Mensagem"
+      },
+    "cta": "Vamos crescer juntos!",
+    "ctaSubtitle": "Entre em contato conosco e descubra como podemos impulsionar seu negócio."
+  },
+  "footer": {
+    "description": "Especialistas em importação conectando fornecedores internacionais ao mercado brasileiro.",
+    "quickLinks": "Links Rápidos",
+    "services": "Serviços",
+    "contact": "Contato",
+    "rights": "Todos os direitos reservados.",
+    "developedBy": "Desenvolvido por Agência Up Front"
+  },
+  "whatsapp": {
+    "message": "Olá! Gostaria de saber mais sobre os serviços da Evolux."
+  },
+  "companyStory": {
+      "title": "Nossa História",
+      "content": [
+        "A Evolux Group nasceu da visão de especialistas com décadas de experiência no mercado de importação, que identificaram a necessidade de uma abordagem mais estratégica e personalizada para conectar fornecedores internacionais ao mercado brasileiro.",
+        "Com mais de 40 anos de experiência combinada, nossa equipe desenvolveu um profundo conhecimento dos desafios e oportunidades únicos do mercado brasileiro, especialmente nos segmentos de utilidades domésticas, decoração e produtos para o lar.",
+        "Hoje, somos reconhecidos como parceiros estratégicos de grandes importadores e varejistas, oferecendo não apenas produtos, mas soluções completas que impulsionam o crescimento e a rentabilidade dos nossos clientes."
+      ]
+    },
+  "process": {
+    "title": "Nosso Processo",
+    "subtitle": "Uma metodologia comprovada para o sucesso na importação",
+    "steps": {
+      "analysis": {
+        "title": "Análise Estratégica",
+        "description": "Realizamos uma análise abrangente das suas necessidades, mercado-alvo e oportunidades de crescimento para desenvolver uma estratégia de importação personalizada."
+      },
+      "planning": {
+        "title": "Planejamento Detalhado",
+        "description": "Criamos um plano de ação detalhado, incluindo seleção de fornecedores, logística, cronogramas e orçamento para garantir o sucesso do projeto."
+      },
+      "execution": {
+        "title": "Execução com Excelência",
+        "description": "Executamos o plano com precisão, gerenciando todos os aspectos desde o sourcing até a entrega, garantindo qualidade e conformidade em cada etapa."
+      },
+      "monitoring": {
+        "title": "Acompanhamento Contínuo",
+        "description": "Monitoramos os resultados, coletamos feedback e realizamos otimizações contínuas para maximizar o retorno sobre o investimento e garantir o sucesso a longo prazo."
+      }
+    }
+  },
+  "benefits": {
+    "title": "Por que Escolher Nossos Serviços?",
+    "items": {
+      "experience": {
+        "title": "Experiência Comprovada",
+        "description": "Mais de 40 anos de experiência combinada no mercado de importação"
+      },
+      "network": {
+        "title": "Rede Global",
+        "description": "Conexões estratégicas com fornecedores nos principais polos mundiais"
+      },
+      "support": {
+        "title": "Suporte Completo",
+        "description": "Acompanhamento em todas as etapas do processo de importação"
+      },
+      "results": {
+        "title": "Resultados Mensuráveis",
+        "description": "Foco em ROI e performance para maximizar seus resultados"
+      }
+    },
+    "cta": {
+      "title": "Pronto para Começar?",
+      "description": "Entre em contato conosco e descubra como podemos impulsionar seu negócio de importação.",
+      "button": "Solicitar Consultoria"
+    }
+  },
+  "experienceHighlight": {
+    "title": "Juntas, somamos mais de 40 anos nesse segmento",
+    "subtitle": "Nossa equipe combina décadas de experiência prática com visão estratégica para entregar resultados excepcionais aos nossos clientes.",
+    "areas": {
+      "strategy": {
+        "title": "Estratégia de Produto",
+        "description": "Desenvolvimento e curadoria de portfólios estratégicos",
+        "icon": "🎯"
+      },
+      "trade": {
+        "title": "Comércio Exterior",
+        "description": "Expertise em regulamentações e processos internacionais",
+        "icon": "🌍"
+      },
+      "logistics": {
+        "title": "Logística Internacional",
+        "description": "Gestão completa da cadeia de suprimentos global",
+        "icon": "🚛"
+      },
+      "relationships": {
+        "title": "Relacionamento Comercial",
+        "description": "Construção de parcerias duradouras e estratégicas",
+        "icon": "🤝"
+      }
+    }
+  },
+  "philosophy": {
+    "title": "Nossa Filosofia de Trabalho",
+    "collaboration": {
+      "title": "Colaboração Estratégica",
+      "description": "Trabalhamos como uma extensão da sua equipe, alinhando nossos objetivos aos seus resultados de negócio."
+    },
+    "innovation": {
+      "title": "Inovação Constante",
+      "description": "Mantemo-nos sempre atualizadas com as últimas tendências e tecnologias do mercado global."
+    },
+    "commitment": {
+      "title": "Compromisso com Resultados",
+      "description": "Nosso sucesso é medido pelo crescimento e satisfação dos nossos parceiros comerciais."
+    },
+    "pillars": {
+      "title": "Nossos Pilares",
+      "strategy": "ESTRATÉGIA",
+      "planning": "PLANEJAMENTO",
+      "compliance": "COMPLIANCE",
+      "cta": {
+        "description": "Quer conhecer melhor nossa equipe e como podemos ajudar seu negócio?",
+        "button": "Fale Conosco"
+      }
+    }
+  },
+  "quickContact": {
+    "title": "Contato Rápido",
+    "description": "Precisa de uma resposta rápida? Entre em contato diretamente pelo WhatsApp.",
+    "button": "Abrir WhatsApp"
+  },
+  "clients": {
+    "title": "Nossos Clientes",
+    "subtitle": "Empresas que confiam em nossos serviços para impulsionar seus negócios"
+  }
+}

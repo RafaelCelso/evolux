@@ -1,0 +1,273 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "team": "Team",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Connecting Markets,\nDriving Business",
+    "subtitle": "It's not just about sales, it's about profit and performance!",
+    "description": "Import specialists with over 40 years of combined experience,\nconnecting international suppliers to the Brazilian market.",
+    "cta": "Get in Touch"
+  },
+  "about": {
+    "title": "Who We Are",
+    "description": "Evolux Group arrives in Brazil with the purpose of transforming the shopping experience and product development for major importers and big players in the segments of household utilities, decoration, toys, tableware, among other strategic niches.",
+    "mission": {
+      "title": "Mission",
+      "text": "Connect the South American Market, especially the Brazilian Market to the best global solutions in imported products."
+    },
+    "vision": {
+      "title": "Vision",
+      "text": "To be recognized through our deliveries as the main import and product curation company in the sector."
+    },
+    "values": {
+      "title": "Values",
+      "text": "Purposeful Curation, Honesty and Transparency, Long-term Partnerships, Commitment to Delivery."
+    }
+  },
+  "achievements": {
+      "title": "Our Differentials",
+      "subtitle": "A complete ecosystem of curation, consulting, logistics, marketing and strategic support",
+      "experience": {
+        "title": "Consolidated Experience",
+        "description": "Over 40 years of combined experience in sourcing, foreign trade, product development and international negotiation."
+      },
+      "global": {
+        "title": "Strategic Global Connection",
+        "description": "Direct operations in major global hubs (China, India, Turkey, Egypt and Indonesia), ensuring access to reliable and competitive suppliers."
+      },
+      "integrated": {
+        "title": "Complete and Integrated Services",
+        "description": "End-to-end coverage: sourcing, development, import, international logistics, customs clearance, quality inspection and cargo consolidation."
+      },
+      "curation": {
+        "title": "Curation and Innovation",
+        "description": "Focus on trends and development of exclusive products, with private label (PL) possibilities and customized packaging for different niches."
+      },
+      "showroom": {
+        "title": "Differentiated Service",
+        "description": "Personalized experience in an environment that simulates an international fair, allowing clients to visualize solutions practically."
+      },
+      "support": {
+        "title": "Complete Client Support",
+        "description": "Technical training, Visual Merchandising, showroom and POS decoration, creation of media materials and product marketing."
+      },
+      "data": {
+        "title": "Strategic Data Management",
+        "description": "Complete structuring of e-commerce registrations and category management, enabling sales analysis, trends and consumer behavior."
+      },
+      "values": {
+        "title": "Solid Values",
+        "description": "Transparency, commitment to delivery, sustainability, responsibility and long-term partnerships, reinforcing market credibility."
+      }
+    },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Complete solutions for import and foreign trade",
+    "sourcing": {
+      "title": "Product Sourcing",
+      "description": "Project development and segment consulting with reliable suppliers in major global hubs."
+    },
+    "import": {
+      "title": "Complete Import",
+      "description": "Complete import services, cargo consolidation and international logistics."
+    },
+    "marketing": {
+      "title": "Marketing and Training",
+      "description": "Support material, technical training and VM and Decor services for showrooms."
+    },
+    "curation": {
+      "title": "Product Curation",
+      "description": "Curation of main trends and development of exclusive products and lines."
+    }
+  },
+  "why": {
+    "title": "Why Choose Evolux?",
+    "subtitle": "Differentials that make a difference in your business",
+    "local": {
+      "title": "Local Market Knowledge",
+      "description": "We deeply understand the culture, regulations and logistics of the Brazilian market."
+    },
+    "network": {
+      "title": "Strategic Distribution Network",
+      "description": "Direct access to major importers, large retailers and e-commerce channels."
+    },
+    "marketing": {
+      "title": "Targeted Marketing",
+      "description": "We develop personalized strategies to position your products in the local market."
+    },
+    "support": {
+      "title": "Complete Support",
+      "description": "We take care of the entire process, from customs clearance to after-sales."
+    }
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "Specialists with over 40 years of combined experience",
+    "paula": {
+      "name": "Paula Ariana",
+      "role": "Product Strategy & Portfolio Development",
+      "description": "Over 20 years of experience in the import sector, specialized in household utilities and home decor."
+    },
+    "isabella": {
+      "name": "Isabella Palmeira",
+      "role": "Foreign Trade & Importer Relations",
+      "description": "Foreign trade specialist with solid experience in Latin America, with over 6 years of experience."
+    },
+    "vanessa": {
+      "name": "Vanessa Alves",
+      "role": "Operations & International Logistics",
+      "description": "Over 15 years in the sector, specialist in the entire import chain and international logistics."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Ready to take your business to the next level? Get in touch with us.",
+    "directContact": "Contact us directly",
+    "country": "Brazil",
+    "info": "Contact Information",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "location": "Location",
+    "form": {
+      "title": "Send Your Message",
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "message": "Message",
+      "send": "Send Message"
+    },
+    "cta": "Let's grow together!",
+    "ctaSubtitle": "Contact us and discover how we can boost your business."
+  },
+  "footer": {
+    "description": "Import specialists connecting international suppliers to the Brazilian market.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "developedBy": "Developed by Agência Up Front"
+  },
+  "whatsapp": {
+    "message": "Hello! I would like to know more about Evolux services."
+  },
+  "companyStory": {
+    "title": "Our Story",
+    "content": [
+      "Evolux Group was born from the vision of specialists with decades of experience in the import market, who identified the need for a more strategic and personalized approach to connect international suppliers to the Brazilian market.",
+      "With over 40 years of combined experience, our team has developed deep knowledge of the unique challenges and opportunities of the Brazilian market, especially in the segments of household utilities, decoration and home products.",
+      "Today, we are recognized as strategic partners of major importers and retailers, offering not only products, but complete solutions that drive the growth and profitability of our customers."
+    ]
+  },
+  "process": {
+    "title": "Our Process",
+    "subtitle": "A proven methodology for import success",
+    "steps": {
+      "analysis": {
+        "title": "Strategic Analysis",
+        "description": "We conduct a comprehensive analysis of your needs, target market, and growth opportunities to develop a customized import strategy."
+      },
+      "planning": {
+        "title": "Detailed Planning",
+        "description": "We create a detailed action plan, including supplier selection, logistics, timelines, and budget to ensure project success."
+      },
+      "execution": {
+        "title": "Excellence in Execution",
+        "description": "We execute the plan with precision, managing all aspects from sourcing to delivery, ensuring quality and compliance at every step."
+      },
+      "monitoring": {
+        "title": "Continuous Monitoring",
+        "description": "We monitor results, collect feedback, and perform continuous optimizations to maximize return on investment and ensure long-term success."
+      }
+    }
+  },
+  "benefits": {
+    "title": "Why Choose Our Services?",
+    "items": {
+      "experience": {
+        "title": "Proven Experience",
+        "description": "Over 40 years of combined experience in the import market"
+      },
+      "network": {
+        "title": "Global Network",
+        "description": "Strategic connections with suppliers in major global hubs"
+      },
+      "support": {
+        "title": "Complete Support",
+        "description": "Follow-up at all stages of the import process"
+      },
+      "results": {
+        "title": "Measurable Results",
+        "description": "Focus on ROI and performance to maximize your results"
+      }
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Contact us and discover how we can boost your import business.",
+      "button": "Request Consultation"
+    }
+  },
+  "experienceHighlight": {
+    "title": "Together, we have over 40 years in this segment",
+    "subtitle": "Our team combines decades of practical experience with strategic vision to deliver exceptional results to our clients.",
+    "areas": {
+      "strategy": {
+        "title": "Product Strategy",
+        "description": "Development and curation of strategic portfolios",
+        "icon": "🎯"
+      },
+      "trade": {
+        "title": "Foreign Trade",
+        "description": "Expertise in international regulations and processes",
+        "icon": "🌍"
+      },
+      "logistics": {
+        "title": "International Logistics",
+        "description": "Complete global supply chain management",
+        "icon": "🚛"
+      },
+      "relationships": {
+        "title": "Commercial Relationships",
+        "description": "Building lasting and strategic partnerships",
+        "icon": "🤝"
+      }
+    }
+  },
+  "philosophy": {
+    "title": "Our Work Philosophy",
+    "collaboration": {
+      "title": "Strategic Collaboration",
+      "description": "We work as an extension of your team, aligning our objectives with your business results."
+    },
+    "innovation": {
+      "title": "Constant Innovation",
+      "description": "We stay always updated with the latest trends and technologies in the global market."
+    },
+    "commitment": {
+      "title": "Commitment to Results",
+      "description": "Our success is measured by the growth and satisfaction of our business partners."
+    },
+    "pillars": {
+      "title": "Our Pillars",
+      "strategy": "STRATEGY",
+      "planning": "PLANNING",
+      "compliance": "COMPLIANCE",
+      "cta": {
+        "description": "Want to know more about our team and how we can help your business?",
+        "button": "Contact Us"
+      }
+    }
+  },
+  "quickContact": {
+    "title": "Quick Contact",
+    "description": "Need a quick response? Contact us directly via WhatsApp.",
+    "button": "Open WhatsApp"
+  },
+  "clients": {
+    "title": "Our Clients",
+    "subtitle": "Companies that trust our services to boost their business"
+  }
+}
