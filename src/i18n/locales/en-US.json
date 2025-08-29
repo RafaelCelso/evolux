@@ -29,41 +29,41 @@
     }
   },
   "achievements": {
-      "title": "Our Differentials",
-      "subtitle": "A complete ecosystem of curation, consulting, logistics, marketing and strategic support",
-      "experience": {
-        "title": "Consolidated Experience",
-        "description": "Over 40 years of combined experience in sourcing, foreign trade, product development and international negotiation."
-      },
-      "global": {
-        "title": "Strategic Global Connection",
-        "description": "Direct operations in major global hubs (China, India, Turkey, Egypt and Indonesia), ensuring access to reliable and competitive suppliers."
-      },
-      "integrated": {
-        "title": "Complete and Integrated Services",
-        "description": "End-to-end coverage: sourcing, development, import, international logistics, customs clearance, quality inspection and cargo consolidation."
-      },
-      "curation": {
-        "title": "Curation and Innovation",
-        "description": "Focus on trends and development of exclusive products, with private label (PL) possibilities and customized packaging for different niches."
-      },
-      "showroom": {
-        "title": "Differentiated Service",
-        "description": "Personalized experience in an environment that simulates an international fair, allowing clients to visualize solutions practically."
-      },
-      "support": {
-        "title": "Complete Client Support",
-        "description": "Technical training, Visual Merchandising, showroom and POS decoration, creation of media materials and product marketing."
-      },
-      "data": {
-        "title": "Strategic Data Management",
-        "description": "Complete structuring of e-commerce registrations and category management, enabling sales analysis, trends and consumer behavior."
-      },
-      "values": {
-        "title": "Solid Values",
-        "description": "Transparency, commitment to delivery, sustainability, responsibility and long-term partnerships, reinforcing market credibility."
-      }
+    "title": "Our Differentials",
+    "subtitle": "A complete ecosystem of curation, consulting, registration, logistics, marketing and strategic support",
+    "experience": {
+      "title": "Consolidated Experience",
+      "description": "Over 40 years of combined experience in sourcing, foreign trade, product development and international negotiation."
     },
+    "global": {
+      "title": "Strategic Global Connection",
+      "description": "Direct operations in major global hubs (China, India, Turkey, Egypt and Indonesia), ensuring access to reliable and competitive suppliers."
+    },
+    "integrated": {
+      "title": "Complete and Integrated Services",
+      "description": "End-to-end coverage: sourcing, development, import, international logistics, customs clearance, quality inspection and cargo consolidation."
+    },
+    "curation": {
+      "title": "Curation and Innovation",
+      "description": "Focus on trends and development of exclusive products, with private label (PL) possibilities and customized packaging for different niches."
+    },
+    "showroom": {
+      "title": "Differentiated Service",
+      "description": "Personalized experience in an environment that simulates an international fair, allowing clients to visualize solutions practically."
+    },
+    "support": {
+      "title": "Complete Client Support",
+      "description": "Technical training, Visual Merchandising, showroom and POS decoration, creation of media materials and product marketing."
+    },
+    "data": {
+      "title": "Strategic Data Management",
+      "description": "Complete structuring of e-commerce registrations and category management, enabling sales analysis, trends and consumer behavior."
+    },
+    "values": {
+      "title": "Solid Values",
+      "description": "Transparency, commitment to delivery, sustainability, responsibility and long-term partnerships, reinforcing market credibility."
+    }
+  },
   "services": {
     "title": "Our Services",
     "subtitle": "Complete solutions for import and foreign trade",
